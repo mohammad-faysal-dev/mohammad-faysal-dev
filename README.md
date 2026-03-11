@@ -1,43 +1,3 @@
-# 👋 Hi, I'm Mohammad Faysal
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Next.js+Expert;TypeScript+%26+Node.js;Python+%26+FastAPI" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🛠 Technology Stack
-
-```
-FRONTEND DEVELOPMENT
-├── React.js / Next.js
-├── TypeScript / JavaScript
-├── Tailwind CSS / SCSS
-└── HTML5 / CSS3
-
-BACKEND DEVELOPMENT
-├── Node.js / Python
-├── FastAPI / Express
-└── RESTful APIs / GraphQL
-
-DATABASE MANAGEMENT
-├── PostgreSQL
-├── MongoDB
-└── Redis
-
-DEVELOPMENT TOOLS
-├── Docker / Git
-├── AWS / Vercel
-└── Postman / VS Code
-```
 
 ---
 
@@ -91,23 +51,6 @@ DEVELOPMENT TOOLS
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal&theme=algolia&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  
-```
-📊 Contribution Timeline (Last 31 Days)
-──────────────────────────────────────────────────
-March 9 - April 11, 2024
-
-Day:   9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1 2 3 4 5 6 7 8 9 10 11
-Level: █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █
-
-0 █ 1 █ 2 █ 3 █ 4+ █
-```
-
 </div>
 
 ---
@@ -194,29 +137,3 @@ const faysal = {
   expertise: ["Web Development", "API Design", "Performance Optimization"],
   funFact: "I love solving DSA problems in my free time"
 };
-```
-
----
-
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-### 📊 Weekly Coding Activity
-
-```text
-⌨️ This Week's Focus
-────────────────
-React/Next.js    ████████████░░░░░░  62%
-TypeScript       ████░░░░░░░░░░░░░░  21%
-Documentation    ██░░░░░░░░░░░░░░░░  11%
-Research         █░░░░░░░░░░░░░░░░░   6%
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
