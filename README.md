@@ -1,139 +1,67 @@
+# 👋 Hi, I'm Mohammad Faysal
+
+**Web Developer | MERN Stack | AI Integration Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:youremail@example.com)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Career Objective
 
-<div align="center">
-  <a href="https://github.com/mohammadfaysal">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadfaysal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadfaysal&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaysal&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
+Detail-oriented **MERN stack developer** with hands-on experience in **AI integration**. Passionate about building user-friendly, impactful solutions and collaborating with others to bring ideas to life.
 
 ---
 
-## 📈 Contribution Overview
+## 🛠️ Skills
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Stars-2-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Commits-48-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Pull%20Requests-3-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Issues%20Resolved-2-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Repositories%20Contributed-2-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Current%20Streak-47%20Days-2ea44f?style=for-the-badge&labelColor=black"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### Frontend
+- HTML5, CSS3, JavaScript, React, Next.js, TypeScript
+- TailwindCSS, DaisyUI, Framer Motion, React Slick
+
+### Backend
+- Node.js, Express.js, MongoDB, Mongoose
+- JWT, Axios, REST APIs
+
+### Tools & Platforms
+- Firebase, Git, Vercel, Vite, NPM, Postman
+
+### AI & ML Tools
+- **APIs:** OpenAI API, Google Gemini API, Hugging Face API
+- **Frameworks:** LangChain.js
+
+### Soft Skills
+- Team Collaboration, Communication, Critical Thinking
 
 ---
 
-## 🔥 Streak Activity
+## 💼 Work Experience
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal&theme=algolia&hide_border=true" />
-</div>
+### Internship: ClarioScope AI (USA)
+- Worked on **Bralvio** using Next.js, TypeScript, and Tailwind CSS
+- Contributed to responsive UI development
+- Collaborated on AI projects including **AI Travel Planner** and **Medicare AI**
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project Alpha</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfaysal&repo=project-alpha&theme=algolia&hide_border=true" width="100%" alt="Project Alpha"/>
-          </a>
-          <p align="center">
-            <strong>Next.js • TypeScript • Tailwind</strong>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project Beta</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfaysal&repo=project-beta&theme=algolia&hide_border=true" width="100%" alt="Project Beta"/>
-          </a>
-          <p align="center">
-            <strong>Node.js • Express • MongoDB</strong>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project Gamma</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfaysal&repo=project-gamma&theme=algolia&hide_border=true" width="100%" alt="Project Gamma"/>
-          </a>
-          <p align="center">
-            <strong>Python • FastAPI • PostgreSQL</strong>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project Delta</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfaysal&repo=project-delta&theme=algolia&hide_border=true" width="100%" alt="Project Delta"/>
-          </a>
-          <p align="center">
-            <strong>React • Redux • Firebase</strong>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+🔗 [Certificate Link](https://example.com)
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://faysal.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadfaysal)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohammadfaysal)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadfaysal)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mohammadfaysal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysal.dev@gmail.com)
-
-</div>
+## 🗣️ Languages
+- **English** (Fluent)
+- **Bengali** (Native)
+- **Hindi** (Conversational)
 
 ---
 
-## 🎯 Current Focus
+## 🎓 Education
 
-```javascript
-const faysal = {
-  learning: ["System Design", "Microservices", "Kubernetes"],
-  building: "SaaS platform with Next.js",
-  collaborateOn: "Open source React/Node.js projects",
-  expertise: ["Web Development", "API Design", "Performance Optimization"],
-  funFact: "I love solving DSA problems in my free time"
-};
+**B.Sc. in Fabric Engineering**  
+Bangladesh University of Textiles (Session: 2023–2024)
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🖥️ [Portfolio](https://yourportfolio.com)
+- 📧 [Email](mailto:youremail@example.com)
