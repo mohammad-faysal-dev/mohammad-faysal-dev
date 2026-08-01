@@ -27,24 +27,23 @@
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-<img
-  align="right"
-  width="350"
-  hspace="35"
-  alt="Coding"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-/>
+<img align="right" width="350" hspace="30"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I'm a **Full-Stack Web Developer** who transforms complex problems into elegant, AI-powered solutions. With a unique background in **Fabric Engineering from BUTEX**, I bring analytical rigor and structured thinking to every line of code I write.
+<p>
+I'm a <b>Full-Stack Web Developer</b> who transforms complex problems into elegant, AI-powered solutions. With a unique background in <b>Fabric Engineering from BUTEX</b>, I bring analytical rigor and structured thinking to every line of code I write.
+</p>
 
-- 🎯 **Currently Building**: AI-integrated web applications with LangChain.js
-- 🌱 **Learning**: Advanced LLM orchestration & vector databases
-- 💡 **Passionate about**: Creating seamless user experiences with AI
-- ⚡ **Fun Fact**: I love converting complex UI designs into pixel-perfect code
+<ul>
+  <li>🎯 <b>Currently Building</b>: AI-integrated web applications with LangChain.js</li>
+  <li>🌱 <b>Learning</b>: Advanced LLM orchestration & vector databases</li>
+  <li>💡 <b>Passionate about</b>: Creating seamless user experiences with AI</li>
+  <li>⚡ <b>Fun Fact</b>: I love converting complex UI designs into pixel-perfect code</li>
+</ul>
 
-**Technical Philosophy**: *Write clean, maintainable code that solves real problems*
+<p><b>Technical Philosophy:</b> <i>Write clean, maintainable code that solves real problems</i></p>
 
 ---
 
