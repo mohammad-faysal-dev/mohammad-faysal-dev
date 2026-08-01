@@ -27,10 +27,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,15&height=150&section=header&text=✨%20Crafting%20the%20Future%20✨&fontSize=30&fontAlignY=30&animation=twinkling" />
-</div>
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
