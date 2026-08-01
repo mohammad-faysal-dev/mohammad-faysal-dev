@@ -26,31 +26,30 @@
 </p>
 
 ---
-
 <h2>🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<td width="65%" valign="top" border="0">
 
 I'm a <b>Full-Stack Web Developer</b> who transforms complex problems into elegant, AI-powered solutions. With a unique background in <b>Fabric Engineering from BUTEX</b>, I bring analytical rigor and structured thinking to every line of code I write.
 
-<br><br>
-
-- 🎯 <b>Currently Building</b>: AI-integrated web applications with LangChain.js
-- 🌱 <b>Learning</b>: Advanced LLM orchestration & vector databases
-- 💡 <b>Passionate about</b>: Creating seamless user experiences with AI
-- ⚡ <b>Fun Fact</b>: I love converting complex UI designs into pixel-perfect code
-
 <br>
+
+🎯 <b>Currently Building</b>: AI-integrated web applications with LangChain.js<br>
+🌱 <b>Learning</b>: Advanced LLM orchestration & vector databases<br>
+💡 <b>Passionate about</b>: Creating seamless user experiences with AI<br>
+⚡ <b>Fun Fact</b>: I love converting complex UI designs into pixel-perfect code
+
+<br><br>
 
 <b>Technical Philosophy:</b> <i>Write clean, maintainable code that solves real problems</i>
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top" border="0">
 
-<img width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
 
 </td>
 </tr>
