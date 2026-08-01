@@ -167,7 +167,7 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-devmohammad-faysal-devmohammad-faysal-devmohammad-faysal-devmohammad-faysal-dev&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-dev&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" width="98%" />
 </div>
 
 ---
