@@ -29,7 +29,13 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img
+  align="right"
+  width="350"
+  hspace="35"
+  alt="Coding"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+/>
 
 I'm a **Full-Stack Web Developer** who transforms complex problems into elegant, AI-powered solutions. With a unique background in **Fabric Engineering from BUTEX**, I bring analytical rigor and structured thinking to every line of code I write.
 
