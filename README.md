@@ -38,12 +38,6 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
 **Technical Philosophy:** *Write clean, maintainable code that solves real problems*
 
 
-
-
-
-
----
-
 ## 🛠️ Tech Arsenal
 
 <table>
