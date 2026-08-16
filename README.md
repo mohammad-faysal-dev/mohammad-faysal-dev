@@ -93,38 +93,6 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
 
 ---
 
-## 💼 Professional Journey
-
-### Software Engineer Intern
-**ClarioScope AI (USA)** · Remote · *2024*
-
-> 🚀 Delivered production-ready features for enterprise AI applications at a US-based AI startup
-
-- 📱 Architected responsive UI modules for **Bralvio** using Next.js, TypeScript, and Tailwind CSS, achieving 40% faster load times
-- 🤖 Engineered AI-powered workflows for **AI Travel Planner** and **Medicare AI**, configuring LLM pipelines with LangChain.js
-- 🌐 Collaborated with cross-functional US teams, contributing to system architecture and code reviews
-
----
-
-## 📚 Education
-
-### Bangladesh University of Textiles (BUTEX)
-**B.Sc. in Fabric Engineering** · *2023 – 2024*
-
-> 🎯 *Where engineering precision meets software craftsmanship*
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Fluent (Professional) |
-| 🇧🇩 Bengali | Native |
-| 🇮🇳 Hindi | Conversational |
-
----
-
 ## 📜 Certifications
 
 <div align="center">
