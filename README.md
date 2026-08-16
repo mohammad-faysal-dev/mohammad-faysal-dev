@@ -115,14 +115,6 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-faysal-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faysal-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <!-- GitHub Streak Stats -->
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
