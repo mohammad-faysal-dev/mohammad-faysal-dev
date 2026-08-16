@@ -119,11 +119,6 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <!-- GitHub Trophy -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mohammad-faysal-dev&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
-</div>
-
 ---
 
 <div align="center">
