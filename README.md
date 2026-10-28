@@ -1,30 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=headers&animation=fadeIn&fontColor=ffffff&fontSize=40&text=Mohammad%20Faysal&subTitle=Full-Stack%20Web%20Developer%20|%20MERN%20&%20AI%20Integration&descAlign=50&descAlignY=80" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Mohammad+Faysal;Full-Stack+Web+Developer;MERN+Stack+%26+AI+Integration" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://mohammad-faysal-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=Vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-foysal-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact.mohammad.faysal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-<table align="center">
-  <tr>
-    <td>
-      Full-stack web developer building modern web applications with the MERN stack, with a growing focus on integrating AI features into real products. I value clean, maintainable code, thoughtful architecture, and translating UI designs into accurate, responsive interfaces.
-    </td>
-  </tr>
-</table>
+> Full-stack web developer building modern web applications with the **MERN stack**, with a growing focus on integrating **AI features** into real products. I value clean, maintainable code, thoughtful architecture, and translating UI designs into accurate, responsive interfaces.
 
 ---
 
@@ -36,40 +30,33 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, DaisyUI, Redux, Framer Motion |
-| **Backend** | Node.js, Express.js, MongoDB, PostgreSQL, Redis, Firebase, JWT, Socket.io |
-| **AI Engineering** | Python, TensorFlow, PyTorch, OpenAI API, Google Gemini, LangChain, Hugging Face |
-| **Tools & DevOps** | Git, Docker, Kubernetes, AWS, Nginx, Linux, Jenkins, Vercel, Postman |
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,postgresql,docker,aws,git,py,redis,firebase" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,redis,firebase,python,docker,aws,git,vscode,postman,linux&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammad-faysal-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faysal-dev&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammad-faysal-dev&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faysal-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=vue-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
   Open to collaboration and new opportunities. The best ways to reach me are through LinkedIn or email!
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footers&animation=fadeIn" alt="Footer Banner" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammad-faysal-dev&color=38BDF8&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+</p>
