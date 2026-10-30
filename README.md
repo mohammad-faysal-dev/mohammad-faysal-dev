@@ -146,32 +146,69 @@ const faysal = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-faysal-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C6F135&icon_color=C6F135&text_color=a0aec0&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C6F135&fire=C6F135&currStreakLabel=C6F135" alt="GitHub Streak"/>
+**📈 GitHub Stats**
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammad-faysal-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C6F135&icon_color=C6F135&text_color=a0aec0&rank_icon=github&count_private=true" width="100%" alt="GitHub Stats"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faysal-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C6F135&text_color=a0aec0&langs_count=8" alt="Top Languages"/>
+</td>
+    <td width="50%" align="center">
 
-</div>
+**🔥 Contribution Streak**
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=mohammad-faysal-dev&theme=dark&hide_border=true&background=0d1117&ring=C6F135&fire=C6F135&currStreakLabel=C6F135&sideLabels=a0aec0&dates=a0aec0" width="100%" alt="GitHub Streak"/>
 
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-dev&theme=react-dark&bg_color=0d1117&color=C6F135&line=C6F135&point=ffffff&hide_border=true&area=true&area_color=C6F135" alt="Activity Graph"/>
-</div>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+
+**🗣️ Top Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-faysal-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C6F135&text_color=a0aec0&langs_count=8" width="100%" alt="Top Languages"/>
+
+</td>
+    <td width="50%" align="center">
+
+**⚡ Activity Snapshot**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammad-faysal-dev&style=for-the-badge&color=C6F135&label=PROFILE+VIEWS)
+
+![Followers](https://img.shields.io/github/followers/mohammad-faysal-dev?style=for-the-badge&logo=github&color=C6F135&labelColor=0d1117&label=FOLLOWERS)
+
+![Stars](https://img.shields.io/github/stars/mohammad-faysal-dev?style=for-the-badge&logo=github&color=C6F135&labelColor=0d1117&label=TOTAL+STARS)
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohammad-faysal-dev&query=public_repos&style=for-the-badge&logo=github&color=C6F135&labelColor=0d1117&label=PUBLIC+REPOS)
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+
+**📅 Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-dev&theme=react-dark&bg_color=0d1117&color=C6F135&line=C6F135&point=ffffff&hide_border=true&area=true&area_color=1a2a1a" width="100%" alt="Activity Graph"/>
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohammad-faysal-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mohammad-faysal-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
 
-</div>
+</td>
+  </tr>
+</table>
 
 ---
 
