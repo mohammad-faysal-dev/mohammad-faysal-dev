@@ -12,6 +12,9 @@
   <a href="mailto:contact.mohammad.faysal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/mohammad-faysal-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -21,7 +24,7 @@
 <table align="center">
   <tr>
     <td>
-      Full-stack web developer building modern web applications with the MERN stack, with a growing focus on integrating AI features into real products. I value clean, maintainable code, thoughtful architecture, and translating UI designs into accurate, responsive interfaces.
+      👋 Hi there! I'm a <b>Full-Stack Web Developer</b> specializing in the MERN stack and modern AI integrations. I love building scalable, high-performance web applications with clean architecture, pixel-percent responsive user interfaces, and seamless user experiences.
     </td>
   </tr>
 </table>
@@ -30,23 +33,23 @@
 
 ## 🎯 Current Focus
 
-- 🧠 Building AI-integrated web applications with **LangChain.js**
-- ⚡ Learning advanced **LLM orchestration** and vector databases
-- 🌐 Developing scalable full-stack applications with **React, Next.js, Node.js, and MongoDB**
+- 🧠 Building production-grade AI-integrated web apps using **LangChain.js**, **OpenAI**, and **Gemini APIs**
+- ⚡ Exploring advanced **LLM orchestration**, RAG pipelines, and vector databases
+- 🌐 Crafting robust full-stack applications with **Next.js, Node.js, PostgreSQL, and MongoDB**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, DaisyUI, Redux, Framer Motion |
-| **Backend** | Node.js, Express.js, MongoDB, PostgreSQL, Redis, Firebase, JWT, Socket.io |
-| **AI Engineering** | Python, TensorFlow, PyTorch, OpenAI API, Google Gemini, LangChain, Hugging Face |
-| **Tools & DevOps** | Git, Docker, Kubernetes, AWS, Nginx, Linux, Jenkins, Vercel, Postman |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, DaisyUI, Redux, Framer Motion, Shadcn UI |
+| **Backend** | Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, Firebase, JWT, REST APIs, Socket.io |
+| **AI Engineering** | Python, TensorFlow, PyTorch, OpenAI API, Google Gemini API, LangChain, Hugging Face |
+| **DevOps & Tools** | Git, Docker, Kubernetes, AWS, Nginx, Linux, Jenkins, Vercel, Vite, Postman |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,postgresql,docker,aws,git,py,redis,firebase" alt="Core technologies" />
+<p align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,postgresql,docker,aws,git,py,redis,firebase,vscode,postman" alt="Core technologies" />
 </p>
 
 ---
@@ -67,9 +70,9 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  Open to collaboration and new opportunities. The best ways to reach me are through LinkedIn or email!
+  I'm always open to discussing new projects, creative ideas, or remote opportunities. Feel free to reach out!
 </p>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footers&animation=fadeIn" alt="Footer Banner" />
 </div>
