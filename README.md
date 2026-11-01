@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Mohammad Faysal 👋</h1>
 
 <p align="center">
@@ -24,11 +25,13 @@
   </a>
 </p>
 
+---
+
 ## 🚀 About Me
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
 
-I'm a **Full-Stack Web Developer** who transforms complex problems into elegant, AI-powered solutions. With a unique background in **Fabric Engineering from BUTEX**, I bring analytical rigor and structured thinking to every line of code I write.
+I'm a **Full-Stack Web Developer** who transforms complex problems into elegant, AI-powered solutions. I enjoy building scalable web applications, developing intuitive user interfaces, and integrating AI to solve real-world problems.
 
 🎯 **Currently Building:** AI-integrated web applications with LangChain.js  
 🌱 **Learning:** Advanced LLM orchestration & vector databases  
@@ -37,6 +40,7 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
 
 **Technical Philosophy:** *Write clean, maintainable code that solves real problems*
 
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -103,3 +107,9 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-dev&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
+</p>
