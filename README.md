@@ -91,25 +91,3 @@ I'm a **Full-Stack Web Developer** who transforms complex problems into elegant,
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-faysal-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-faysal-dev&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
-</p>
