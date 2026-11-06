@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Mohammad Faysal 👋</h1>
 
 <p align="center">
@@ -31,14 +30,14 @@
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
 
-I'm a **Full-Stack Web Developer** who transforms complex problems into elegant, AI-powered solutions. I enjoy building scalable web applications, developing intuitive user interfaces, and integrating AI to solve real-world problems.
+I'm a **Full-Stack Web Developer** who turns complex problems into elegant, AI-powered solutions. I love building scalable web applications, crafting intuitive user interfaces, and integrating AI to solve real-world challenges.
 
-🎯 **Currently Building:** AI-integrated web applications with LangChain.js  
-🌱 **Learning:** Advanced LLM orchestration & vector databases  
-💡 **Passionate about:** Creating seamless user experiences with AI  
-⚡ **Fun Fact:** I love converting complex UI designs into pixel-perfect code  
+- 🎯 **Currently Building:** AI-integrated web applications with LangChain.js
+- 🌱 **Learning:** Advanced LLM orchestration and vector databases
+- 💡 **Passionate About:** Creating seamless user experiences powered by AI
+- ⚡ **Fun Fact:** I love converting complex UI designs into pixel-perfect code
 
-**Technical Philosophy:** *Write clean, maintainable code that solves real problems*
+> 💭 **Technical Philosophy:** *Write clean, maintainable code that solves real problems.*
 
 ---
 
