@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Mohammad Faysal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;AI+Integration+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%26+TypeScript+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Learner-00D4FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Passion-AI%20Integration-FF6B6B?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20Bangladesh-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -30,12 +30,12 @@
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
 
-I'm a **Full-Stack Web Developer** who turns complex problems into elegant, AI-powered solutions. I love building scalable web applications, crafting intuitive user interfaces, and integrating AI to solve real-world challenges.
+I'm a **Full-Stack Web Developer** who builds fast, scalable and well-structured web applications. I enjoy crafting intuitive user interfaces, designing secure backends, and turning complex UI designs into pixel-perfect code.
 
-- 🎯 **Currently Building:** AI-integrated web applications with LangChain.js
-- 🌱 **Learning:** Advanced LLM orchestration and vector databases
-- 💡 **Passionate About:** Creating seamless user experiences powered by AI
-- ⚡ **Fun Fact:** I love converting complex UI designs into pixel-perfect code
+- 💼 **Working at:** [FonkaLabs](https://fonkalabs.com) as a Full Stack Web Developer (since Oct 2025)
+- 🎯 **Currently Building:** EduSoft, a School Management System, using Next.js, TypeScript and Supabase
+- ⚡ **Focus Areas:** Performance, SEO, scalable architecture and reusable UI components
+- 🌍 **Languages:** English, Bengali, Hindi
 
 > 💭 **Technical Philosophy:** *Write clean, maintainable code that solves real problems.*
 
@@ -48,45 +48,44 @@ I'm a **Full-Stack Web Developer** who turns complex problems into elegant, AI-p
     <td valign="top" width="50%">
       <h3 align="center">🎨 Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
         <br />
-        <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Form-000000?style=flat-square&logo=reactquery&logoColor=white" />
       </div>
     </td>
     <td valign="top" width="50%">
       <h3 align="center">⚙️ Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,firebase" />
         <br />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square" />
       </div>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">🤖 AI Engineering</h3>
+      <h3 align="center">🗄️ Databases</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,prisma" />
         <br />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
       </div>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">🔧 Tools & DevOps</h3>
+      <h3 align="center">🔧 Tools & Platforms</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vercel,postman" />
-        <br />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,webpack" />
       </div>
     </td>
   </tr>
 </table>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting projects and conversations. Reach out via [LinkedIn](https://www.linkedin.com/in/mohammad-foysal-dev/), [email](mailto:contact.mohammad.faysal@gmail.com) or my [portfolio](https://mohammad-faysal-dev.netlify.app/).
