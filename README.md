@@ -85,7 +85,3 @@ I'm a **Full-Stack Web Developer** who builds fast, scalable and well-structured
 </table>
 
 ---
-
-## 📫 Let's Connect
-
-I'm always open to interesting projects and conversations. Reach out via [LinkedIn](https://www.linkedin.com/in/mohammad-foysal-dev/), [email](mailto:contact.mohammad.faysal@gmail.com) or my [portfolio](https://mohammad-faysal-dev.netlify.app/).
