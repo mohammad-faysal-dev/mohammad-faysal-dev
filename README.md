@@ -1,13 +1,13 @@
 # Hi, I'm Mohammad Faysal 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Next.js+%26+TypeScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00D4FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20Bangladesh-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact.mohammad.faysal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://faysal-portfolio-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -35,55 +35,60 @@ I'm a **Full-Stack Web Developer** passionate about building modern, scalable, a
 
 I work across both frontend and backend development, focusing on clean code, responsive interfaces, secure APIs, and efficient application architecture.
 
-- 💼 **Currently Working:** With [FonkaLabs](https://fonkalabs.com)
+- 💼 **Working at:** [FonkaLabs](https://fonkalabs.com) as a Full-Stack Web Developer
+- 🎯 **Focus Areas:** Performance, SEO, scalable architecture, and reusable UI components
 - 💻 **Frontend:** React, Next.js, TypeScript
-- ⚙️ **Backend:** Node.js, Express.js, PostgreSQL
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs
 - 🗄️ **Database:** PostgreSQL, MongoDB, Prisma
 - 🌱 **Currently Exploring:** Advanced Backend Development and AI-powered applications
-- 🎯 **Goal:** Building scalable applications and continuously improving my engineering skills.
 - 🌍 **Languages:** Bengali, English, Hindi
 
-> *I believe in writing clean, maintainable code and building solutions that solve real-world problems.*
+> 💭 **Technical Philosophy:** *Write clean, maintainable code that solves real-world problems.*
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Arsenal
 
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Form-000000?style=flat-square" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,firebase" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square" />
-</p>
-
-### 🗄️ Database & ORM
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,prisma" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,webpack,vscode" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🎨 Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Form-000000?style=flat-square" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">⚙️ Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,firebase" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🗄️ Databases</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,prisma" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🔧 Tools & Platforms</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,webpack,vscode" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,9 +113,11 @@ I work across both frontend and backend development, focusing on clean code, res
 
 ---
 
+## 🤝 Let's Connect
+
 <p align="center">
-  <b>💬 Let's Connect and Build Something Amazing!</b>
-  <br/>
+  <b>Let's connect and build something amazing!</b>
+  <br />
   <i>Always learning, always building, always improving.</i>
 </p>
 
